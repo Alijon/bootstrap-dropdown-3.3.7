@@ -26,6 +26,7 @@
     "README.md"    
   ],
   "dependencies": {
+    "bootstrap-css-only": "latest",
     "bootstrap-transition": "latest",
     "jquery": "1.9.1 - 3"
   },
