@@ -1,0 +1,33 @@
+{
+  "name": "bootstrap-dropdown-3.3.7",
+  "description": "bootstrap 3.3.7 dropdown.js plugin.",
+  "keywords": [    
+    "js",
+    "bootstrap",
+    "dropdown",
+    "bootstrap-dropdown",
+    "dropdown",
+    "bootstrap-dropdown",
+    "bootstrap dropdown",
+    "bootstrap dropdown ",
+    "bootstrap dropdown",
+    "bootsrap.js",
+    "dropdown.js",
+    "bootstrap 3",
+    "bootstrap3"
+  ],
+  "homepage": "https://github.com/AnupamKhosla/bootstrap-dropdown-3.3.7",
+  "license": "UNLICENSED",
+  
+  "main": [    
+    "scripts/dropdown.js"
+  ],
+  "ignore": [    
+    "README.md"    
+  ],
+  "dependencies": {
+    "bootstrap-transition": "latest",
+    "jquery": "1.9.1 - 3"
+  },
+  "authors": "Anupam Khosla"
+}
